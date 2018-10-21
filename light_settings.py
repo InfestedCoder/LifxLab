@@ -4,8 +4,8 @@ from lifxlan import Light
 
 # Put the mac and ip address of your light here
 # You can find both values by running find_all_lights.py
-MAC_ADDRESS = "d0:73:d5:34:66:8f"
-IP_ADDRESS = "192.168.1.131"
+MAC_ADDRESS = "12:34:56:78:9a:bc"
+IP_ADDRESS = "192.168.1.1"
 
 
 def find_light():
