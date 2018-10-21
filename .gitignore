@@ -1,0 +1,5 @@
+.idea
+lifx_lab.egg-info
+venv
+.DS_STORE
+__pycache__/
