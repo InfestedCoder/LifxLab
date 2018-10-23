@@ -4,7 +4,7 @@ Prereqs:
 
 ```pip3 install lifx_lan```
 
-```pyhton3 find_all_lights.py```
+```python3 find_all_lights.py```
 
 API doc:
 
